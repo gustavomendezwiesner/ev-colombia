@@ -1,0 +1,22 @@
+﻿node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+*.pem
+*.key
+
+# Local data
+02-DATA/01-Raw/
+02-DATA/02-Processed/
+
+# Lovable / temporary
+.lovable/
